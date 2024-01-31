@@ -1,0 +1,18 @@
+
+label{
+    font-size: 30px;
+
+}
+input{
+    width: 30px;
+    font-size: 17px;
+}
+button{
+    font-size: 18px;
+    background-color: rgb(176, 243, 221);
+    border: 1px solid;
+}
+p{
+    font-size: 20px;
+    color: rgb(76, 75, 75);
+}
